@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body{
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav img{
+width: 8rem;
+}
+
+.encabezado{
+    color:#212529;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size:x-large 
+}
+
+.subtitulo{
+    font-weight: 300;
+    font-size:x-large;
+}
+
+.direccion{
+    font-weight: 300;
+}
+
+footer img{
+    width: 10rem;
+    }
+
+footer {
+    font-weight: 300;
+    font-size:larger;
+}
